@@ -1,1 +1,6 @@
 C:\Users\Jacky\Desktop\Microsoft Visual C# 2010_ An Introductio - Joyce Farrell\Chapter 10 Exercises\Chapter10Exercises\Chapter10Exercises\bin\Debug\Chapter10Exercises.exe.config
+C:\Users\Jacky\Desktop\Microsoft Visual C# 2010_ An Introductio - Joyce Farrell\Chapter 10 Exercises\Chapter10Exercises\Chapter10Exercises\bin\Debug\Chapter10Exercises.exe
+C:\Users\Jacky\Desktop\Microsoft Visual C# 2010_ An Introductio - Joyce Farrell\Chapter 10 Exercises\Chapter10Exercises\Chapter10Exercises\bin\Debug\Chapter10Exercises.pdb
+C:\Users\Jacky\Desktop\Microsoft Visual C# 2010_ An Introductio - Joyce Farrell\Chapter 10 Exercises\Chapter10Exercises\Chapter10Exercises\obj\Debug\Chapter10Exercises.csprojResolveAssemblyReference.cache
+C:\Users\Jacky\Desktop\Microsoft Visual C# 2010_ An Introductio - Joyce Farrell\Chapter 10 Exercises\Chapter10Exercises\Chapter10Exercises\obj\Debug\Chapter10Exercises.exe
+C:\Users\Jacky\Desktop\Microsoft Visual C# 2010_ An Introductio - Joyce Farrell\Chapter 10 Exercises\Chapter10Exercises\Chapter10Exercises\obj\Debug\Chapter10Exercises.pdb

@@ -10,6 +10,7 @@ namespace Chapter10Exercises
     {
         static void Main(string[] args)
         {
+            GameDemo.Run(args);
         }
     }
 }
