@@ -43,11 +43,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AdhesiveTape.cs" />
     <Compile Include="Game.cs" />
     <Compile Include="GameDemo.cs" />
     <Compile Include="GameWithTimeLimit.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Tape.cs" />
+    <Compile Include="TapeDemo.cs" />
+    <Compile Include="VideoTape.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
