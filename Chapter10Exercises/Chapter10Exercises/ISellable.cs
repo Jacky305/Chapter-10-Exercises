@@ -6,11 +6,9 @@ using System.Threading.Tasks;
 
 namespace Chapter10Exercises
 {
-    class Program
+    interface ISellable
     {
-        static void Main(string[] args)
-        {
-            SalesPersonDemo.Run(args);
-        }
+        void SalesSpeech();
+        void MakeSale(int value);
     }
 }

@@ -47,8 +47,13 @@
     <Compile Include="Game.cs" />
     <Compile Include="GameDemo.cs" />
     <Compile Include="GameWithTimeLimit.cs" />
+    <Compile Include="GirlsScout.cs" />
+    <Compile Include="ISellable.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RealEstateSalesPerson.cs" />
+    <Compile Include="SalesPerson.cs" />
+    <Compile Include="SalesPersonDemo.cs" />
     <Compile Include="Tape.cs" />
     <Compile Include="TapeDemo.cs" />
     <Compile Include="VideoTape.cs" />
